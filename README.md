@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ratmor
-- 👀 I’m interested in Web dev
-- 🌱 I’m currently learning Web dev
-- 💞️ I’m looking to collaborate on anything Python related 
+- 👀 Quite experienced in Web dev
+- 🌱 I’m currently learning Cybersec/Devsecops
+- 💞️ I’m looking to collaborate on anything Python/Development/Cybersecurity related 
 - 📫 How to reach me: link in my Bio
 - 😄 Pronouns: Him
 - ⚡ Fun fact: Nothing funny 🌚
